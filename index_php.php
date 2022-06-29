@@ -1,5 +1,4 @@
 <?php
-
     include __DIR__ . '/list_dischi.php';
 ?>
 
@@ -23,6 +22,8 @@
         </div>
         <?
     } ?>
+
+
 </body>
 </html>
 
